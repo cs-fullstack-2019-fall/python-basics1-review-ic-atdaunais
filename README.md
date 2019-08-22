@@ -1,14 +1,10 @@
 # python-basics1-review-ic
 
 ### Problem 1:
-Create a program that will print from 1 to 100.
-- If the current number is evenly divisible by 3 you should print "FIZZ" and the number
-- If the current number is evenly divisible by 5 you should print "BUZZ" and the number
-- If the current number is evenly divisible by both 3 and 5 you should print "FIZZBUZZ"
-- Otherwise, print the number
+Ask the user for a number until they hit 'q' to quit. Print the total of all the numbers they entered once they click 'q'.
 
 ### Problem 2:
-Create a program that takes the user input until they enter 'q'. You should store all of their input and separate the input with a comma. Once they enter 'q', print all of the comma separated words they entered.
+Asks the user to enter 1 for 'count down', 2 for 'count up' and 'q' to quit. If they enter 1, ask them what number they want to count down to. Start from 0 and count down to that number by ones. If they enter 2, ask them what they want to count up to. Start from 0 and count up to the number by ones.
 
 ### Challenge:
 Ask the user to enter a number. Ask the user to enter another number. Print from one number to the other number. Make sure it works regardless if the first or second number is greater than the other.
